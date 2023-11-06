@@ -1,0 +1,39 @@
+.front-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 20px;
+
+} 
+
+ .image-slideshow{
+  width: 80%;
+  display: block;
+  /* padding-left: 10px; */
+}
+
+.vertical-video-player {
+  margin-left: 10px;
+  height: auto;
+  width: auto;
+
+}
+
+.slide{
+  width: 100%;
+  height: auto;
+  /* height: 500px; */
+}
+
+.scroll-ticker{
+  background-color: DodgerBlue;
+}
+.flowtext{
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 25px;
+  margin-left: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+
